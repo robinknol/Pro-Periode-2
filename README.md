@@ -10,6 +10,12 @@
 
 
 ### Kill a monster
-#### In deze achievment moesten wij een systeem maken waar bij wij simple weg een monster moesten slaan die een naam had
+#### In deze achievment moest ik een systeem maken waar bij ik simple weg een monster moesten slaan die een naam had
 ##### Ook in deze achievment heb ik twee versie in de eerste deed ik iets fout met de instatiate dat ik in een aparte folder wou oplossen want ik vergat dat github een ding was en ik wou wat ik nu had niet kwijt raken
 ###### https://trello.com/c/Hye4ZEQO/9-prob2l3-kill-a-monster
+
+### Simple calculator
+#### In deze achievment moest ik een calculator maken met de volgende eisen
+##### 1. Je moet het eerste getal kunnen selecteren
+##### 2. Je moet kiezen of je Plus(+), Min(-), Gedeeltdoor(/), Vermedigvuldig(*) of door Modulo(%) gaat.
+###### https://trello.com/c/GbRvy7Sh/4-prob2l1-simple-calculator
