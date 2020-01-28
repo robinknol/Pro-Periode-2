@@ -1,0 +1,11 @@
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-Kill-a-monster\attempt two\bin\Debug\netcoreapp2.2\Pro2-Kill-a-monster.deps.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-Kill-a-monster\attempt two\bin\Debug\netcoreapp2.2\Pro2-Kill-a-monster.runtimeconfig.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-Kill-a-monster\attempt two\bin\Debug\netcoreapp2.2\Pro2-Kill-a-monster.runtimeconfig.dev.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-Kill-a-monster\attempt two\bin\Debug\netcoreapp2.2\Pro2-Kill-a-monster.dll
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-Kill-a-monster\attempt two\bin\Debug\netcoreapp2.2\Pro2-Kill-a-monster.pdb
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-Kill-a-monster\attempt two\obj\Debug\netcoreapp2.2\Pro2-Kill-a-monster.csprojAssemblyReference.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-Kill-a-monster\attempt two\obj\Debug\netcoreapp2.2\Pro2-Kill-a-monster.csproj.CoreCompileInputs.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-Kill-a-monster\attempt two\obj\Debug\netcoreapp2.2\Pro2-Kill-a-monster.AssemblyInfoInputs.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-Kill-a-monster\attempt two\obj\Debug\netcoreapp2.2\Pro2-Kill-a-monster.AssemblyInfo.cs
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-Kill-a-monster\attempt two\obj\Debug\netcoreapp2.2\Pro2-Kill-a-monster.dll
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-Kill-a-monster\attempt two\obj\Debug\netcoreapp2.2\Pro2-Kill-a-monster.pdb

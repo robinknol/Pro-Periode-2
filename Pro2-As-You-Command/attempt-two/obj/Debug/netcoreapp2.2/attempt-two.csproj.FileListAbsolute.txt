@@ -1,0 +1,11 @@
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-As-You-Command\attempt-two\bin\Debug\netcoreapp2.2\attempt-two.deps.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-As-You-Command\attempt-two\bin\Debug\netcoreapp2.2\attempt-two.runtimeconfig.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-As-You-Command\attempt-two\bin\Debug\netcoreapp2.2\attempt-two.runtimeconfig.dev.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-As-You-Command\attempt-two\bin\Debug\netcoreapp2.2\attempt-two.dll
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-As-You-Command\attempt-two\bin\Debug\netcoreapp2.2\attempt-two.pdb
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-As-You-Command\attempt-two\obj\Debug\netcoreapp2.2\attempt-two.csprojAssemblyReference.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-As-You-Command\attempt-two\obj\Debug\netcoreapp2.2\attempt-two.csproj.CoreCompileInputs.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-As-You-Command\attempt-two\obj\Debug\netcoreapp2.2\attempt-two.AssemblyInfoInputs.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-As-You-Command\attempt-two\obj\Debug\netcoreapp2.2\attempt-two.AssemblyInfo.cs
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-As-You-Command\attempt-two\obj\Debug\netcoreapp2.2\attempt-two.dll
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Pro2-As-You-Command\attempt-two\obj\Debug\netcoreapp2.2\attempt-two.pdb

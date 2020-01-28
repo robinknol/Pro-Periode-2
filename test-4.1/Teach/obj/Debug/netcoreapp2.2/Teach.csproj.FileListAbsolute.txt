@@ -1,0 +1,11 @@
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\Teach\obj\Debug\netcoreapp2.2\Teach.csprojAssemblyReference.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\Teach\obj\Debug\netcoreapp2.2\Teach.csproj.CoreCompileInputs.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\Teach\obj\Debug\netcoreapp2.2\Teach.AssemblyInfoInputs.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\Teach\obj\Debug\netcoreapp2.2\Teach.AssemblyInfo.cs
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\Teach\bin\Debug\netcoreapp2.2\Teach.deps.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\Teach\bin\Debug\netcoreapp2.2\Teach.runtimeconfig.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\Teach\bin\Debug\netcoreapp2.2\Teach.runtimeconfig.dev.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\Teach\bin\Debug\netcoreapp2.2\Teach.dll
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\Teach\bin\Debug\netcoreapp2.2\Teach.pdb
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\Teach\obj\Debug\netcoreapp2.2\Teach.dll
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\Teach\obj\Debug\netcoreapp2.2\Teach.pdb

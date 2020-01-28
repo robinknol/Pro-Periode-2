@@ -1,0 +1,11 @@
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\bin\Debug\netcoreapp2.2\test-4.1.deps.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\bin\Debug\netcoreapp2.2\test-4.1.runtimeconfig.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\bin\Debug\netcoreapp2.2\test-4.1.runtimeconfig.dev.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\bin\Debug\netcoreapp2.2\test-4.1.dll
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\bin\Debug\netcoreapp2.2\test-4.1.pdb
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\obj\Debug\netcoreapp2.2\test-4.1.csprojAssemblyReference.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\obj\Debug\netcoreapp2.2\test-4.1.csproj.CoreCompileInputs.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\obj\Debug\netcoreapp2.2\test-4.1.AssemblyInfoInputs.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\obj\Debug\netcoreapp2.2\test-4.1.AssemblyInfo.cs
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\obj\Debug\netcoreapp2.2\test-4.1.dll
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\test-4.1\obj\Debug\netcoreapp2.2\test-4.1.pdb

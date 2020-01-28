@@ -1,0 +1,11 @@
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Youdon'tOwnMe!\bin\Debug\netcoreapp2.2\Youdon'tOwnMe!.deps.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Youdon'tOwnMe!\bin\Debug\netcoreapp2.2\Youdon'tOwnMe!.runtimeconfig.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Youdon'tOwnMe!\bin\Debug\netcoreapp2.2\Youdon'tOwnMe!.runtimeconfig.dev.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Youdon'tOwnMe!\bin\Debug\netcoreapp2.2\Youdon'tOwnMe!.dll
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Youdon'tOwnMe!\bin\Debug\netcoreapp2.2\Youdon'tOwnMe!.pdb
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Youdon'tOwnMe!\obj\Debug\netcoreapp2.2\Youdon'tOwnMe!.csprojAssemblyReference.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Youdon'tOwnMe!\obj\Debug\netcoreapp2.2\Youdon'tOwnMe!.csproj.CoreCompileInputs.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Youdon'tOwnMe!\obj\Debug\netcoreapp2.2\Youdon'tOwnMe!.AssemblyInfoInputs.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Youdon'tOwnMe!\obj\Debug\netcoreapp2.2\Youdon'tOwnMe!.AssemblyInfo.cs
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Youdon'tOwnMe!\obj\Debug\netcoreapp2.2\Youdon'tOwnMe!.dll
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.2\Programmeren\Youdon'tOwnMe!\obj\Debug\netcoreapp2.2\Youdon'tOwnMe!.pdb

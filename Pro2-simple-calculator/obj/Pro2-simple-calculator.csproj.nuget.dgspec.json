@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\knolb\\Documents\\mahoofdmap\\bewijzenmap\\periode1.2\\pro2\\Pro2-simple-calculator\\Pro2-simple-calculator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\knolb\\Documents\\mahoofdmap\\bewijzenmap\\periode1.2\\pro2\\Pro2-simple-calculator\\Pro2-simple-calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\knolb\\Documents\\mahoofdmap\\bewijzenmap\\periode1.2\\pro2\\Pro2-simple-calculator\\Pro2-simple-calculator.csproj",
+        "projectName": "Pro2-simple-calculator",
+        "projectPath": "C:\\Users\\knolb\\Documents\\mahoofdmap\\bewijzenmap\\periode1.2\\pro2\\Pro2-simple-calculator\\Pro2-simple-calculator.csproj",
+        "packagesPath": "C:\\Users\\knolb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\knolb\\Documents\\mahoofdmap\\bewijzenmap\\periode1.2\\pro2\\Pro2-simple-calculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\knolb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
