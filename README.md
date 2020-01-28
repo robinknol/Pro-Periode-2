@@ -18,4 +18,7 @@
 #### In deze achievment moest ik een calculator maken met de volgende eisen
 ##### 1. Je moet het eerste getal kunnen selecteren
 ##### 2. Je moet kiezen of je Plus(+), Min(-), Gedeeltdoor(/), Vermedigvuldig(*) of door Modulo(%) gaat.
+##### 3. Je moet het tweede getal selecteren
 ###### https://trello.com/c/GbRvy7Sh/4-prob2l1-simple-calculator
+
+###
