@@ -21,4 +21,18 @@
 ##### 3. Je moet het tweede getal selecteren
 ###### https://trello.com/c/GbRvy7Sh/4-prob2l1-simple-calculator
 
-###
+### You Don't Own Me! en Youdon'tOwnMe!	
+#### In deze achievment moesten wij een programma maken waarmee wij mario kart item's konden gebruiken uit andere scripts die allemaal ook nog iets erfde uit een ander script
+##### Ik weet niet waarom maar ik heb bij deze teveel tijd besteed aan het instancieren dan dat ik had moeten besteden deze is ook namelijk niet af
+###### https://trello.com/c/iGnXODLb/10-prob2l4-you-dont-own-me
+
+### Add an Instance of a class
+#### Hier bij kreeg ik een start code die 3 docenten en 2 leerlingen gaf ik moest er voor zorgen dat een ander docent en ikzelf toegevoegd wordt en daarna moesten wij een class maken voor ouders
+###### https://trello.com/c/YLtsv3a4/7-prob2l2-add-an-instance-of-a-class
+
+### test t/m 4
+#### Dit is mijn praktijk code dat ik in de les met de docent heb gemaakt
+
+### test 4.1
+#### Bij test 4.1 ging ik nog een keer dezelfde les doen maar in de own map hebben we een versie gemaakt zonder de meester voor de Got You In My Sight achievment
+###### https://trello.com/c/HwFtFXZv/12-prob2l5-got-you-in-my-sight
